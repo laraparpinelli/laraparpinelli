@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá! Bem-vindo ao meu perfil! 🖤
 
-<!--
-**laraparpinelli/laraparpinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou a Lara, aluna de Tecnologia da Escola Isac de Dracena/SP.
+- Estou aprendendo várias programações através de cursos no [alura](https://www.alura.com.br/).
+- Estou utlizando esta plataforma para postar alguns de meus projetos realizados nas aulas com o Professor Jocimar.
 
-Here are some ideas to get you started:
+Podem entrar em contato comigo: 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001092116576sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/qekdanUB9eYAAAAM/booo.gif)
+
+
